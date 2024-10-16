@@ -18,7 +18,7 @@
 
 <div>
     <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=phong76&show_icons=true&theme=radical" />
-    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phong76&layout=compact&theme=nightowl" />
+    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongdz76&layout=compact&theme=buefy" alt="Top Languages">
 </div>
 
 <p align="center">
