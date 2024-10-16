@@ -17,11 +17,11 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phongdz76&show_icons=true&theme=#f4d8dc" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=phongdz76&show_icons=true" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phongdz76&theme=#f4d8dc" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phongdz76c" alt="GitHub Streak">
 </p>
 <!---
 phongdz76/phongdz76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
