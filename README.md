@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phongdz76c" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phongdz76" alt="GitHub Streak">
 </p>
 <!---
 phongdz76/phongdz76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
