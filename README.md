@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phongdz76 aka Nguyễn Hồ Thanh Phong
+<h1>👋 Hi, I’m @phongdz76 aka Nguyễn Hồ Thanh Phong<h1>
  <p><em>Front-end Developer</em></p>
 <p align="center">
   <a href="https://www.youtube.com/@PhongNguyen-ch9hv"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Youtube"></a>
