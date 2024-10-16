@@ -16,9 +16,10 @@
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phongdz76&show_icons=true" alt="GitHub Stats">
-</p>
+<div>
+    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=phong76&show_icons=true&theme=radical" />
+    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phong76&layout=compact&theme=nightowl" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phongdz76" alt="GitHub Streak">
