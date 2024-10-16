@@ -13,6 +13,16 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=phongdz76&theme=vue" alt="GitHub Activity Graph" />
 </p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phongdz76&show_icons=true&theme=buefy" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phongdz76&theme=buefy" alt="GitHub Streak">
+</p>
 <!---
 phongdz76/phongdz76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
