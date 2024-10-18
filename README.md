@@ -44,8 +44,6 @@ Got an exciting project or collaboration opportunity? Reach out to me!
 - 📧 Email: nguyenhothanhphong5@gmail.com
 
 ## 🎉 Thanks for visiting!
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=phongdz76&color=f4d8dc" alt="Profile views">
 </p>
 <!---
