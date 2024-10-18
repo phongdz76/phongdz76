@@ -1,6 +1,8 @@
 <h1>Hello Everyone</h1>
-- 👋 Hi,I’m @phongdz76 aka Nguyễn Hồ Thanh Phong
-- ⚡ Fun fact: I Love Anime ❤️
+ <ul>
+ <li>👋 Hi,I’m @phongdz76 aka Nguyễn Hồ Thanh Phong</li>
+ <li>⚡ Fun fact: I Love Anime ❤️</li>
+ </ul>
  <p><em>Front-end Developer</em></p>
   <p>📫How to reach me: <p>
 
