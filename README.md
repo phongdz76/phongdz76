@@ -1,8 +1,9 @@
 <h3>👋 Hi, I’m @phongdz76 aka Nguyễn Hồ Thanh Phong<h3>
  
  <p><em>Front-end Developer</em></p>
+  <p>📫How to reach me: <p>
+
  <p align="center">
-  <li>📫How to reach me: </li>
   <a href="https://www.youtube.com/@PhongNguyen-ch9hv"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>
   <a href="https://www.facebook.com/profile.php?id=100058767700619&mibextid=LQQJ4d"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
  <a href="https://www.instagram.com/__tphong7684/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
