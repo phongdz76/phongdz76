@@ -17,6 +17,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=phongdz76&theme=vue" alt="GitHub Activity Graph" />
 </p>
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c#,visual studio,visual studio code,docker,terraform,jenkins,gitlab,ansible,grafana,bash,nginx" />
+  </a>
+</p>
+
+
 ## 🏆 GitHub Achievements
 
 <div>
