@@ -4,8 +4,8 @@
  <li>I 💖 Anime</li>
  </ul>
  <p><em>Front-end Developer| Android Development</em></p>
-  <p>📫How to reach me: <p>
-
+ 
+  <h3>📫How to reach me: </h3>
  <p align="center">
   <a href="https://www.youtube.com/@PhongNguyen-ch9hv"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>
   <a href="https://www.facebook.com/profile.php?id=100058767700619&mibextid=LQQJ4d"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
@@ -28,7 +28,6 @@
 
 
 ## 🏆 GitHub Achievements
-
 <div>
     <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=phong76&show_icons=true" />
     <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongdz76&layout=compact" alt="Top Languages">
@@ -37,6 +36,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phongdz76" alt="GitHub Streak">
 </p>
+
+## 🌐 Get in Touch
+
+Got an exciting project or collaboration opportunity? Reach out to me!
+
+- 📧 Email: nguyenhothanhphong5@gmail.com
 <!---
 phongdz76/phongdz76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
