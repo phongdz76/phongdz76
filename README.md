@@ -1,4 +1,5 @@
 <h1>Hello Everyone</h1>
+## 🚀 About Me
  <ul>
  <li>👋 Hi, I’m @phongdz76 aka Nguyễn Hồ Thanh Phong</li>
  <li> I 💖 Anime</li>
