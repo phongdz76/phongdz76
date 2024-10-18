@@ -19,7 +19,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c#,visual studio,visual studio code,docker,terraform,jenkins,gitlab,ansible,grafana,bash,nginx" />
+    <img src="https://skillicons.dev/icons?i=c #,visualstudio,visualstudiocode,docker,terraform,jenkins,gitlab,ansible,grafana,bash,nginx" />
   </a>
 </p>
 
