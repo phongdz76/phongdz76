@@ -3,7 +3,7 @@
  <li>👋 Hi, I’m @phongdz76 aka Nguyễn Hồ Thanh Phong</li>
  <li>I 💖 Anime</li>
  </ul>
- <p><em>Front-end Developer|Android Development</em></p>
+ <p><em>Front-end Developer| Android Development</em></p>
   <p>📫How to reach me: <p>
 
  <p align="center">
