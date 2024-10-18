@@ -1,9 +1,9 @@
 <h1>Hello Everyone</h1>
  <ul>
  <li>👋 Hi, I’m @phongdz76 aka Nguyễn Hồ Thanh Phong</li>
- <li>I 💖 Anime</li>
+ <li> I 💖 Anime</li>
  </ul>
- <p><em>Front-end Developer| Android Development</em></p>
+ <p><em>Front-end Developer | Android Development</em></p>
  
  ## 📫How to reach me: 
  <p align="center">
@@ -42,6 +42,12 @@
 Got an exciting project or collaboration opportunity? Reach out to me!
 
 - 📧 Email: nguyenhothanhphong5@gmail.com
+
+## 🎉 Thanks for visiting!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=phongdz76&color=f4d8dc" alt="Profile views">
+</p>
 <!---
 phongdz76/phongdz76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
