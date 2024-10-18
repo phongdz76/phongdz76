@@ -32,12 +32,12 @@
 
 ## 🏆 GitHub Achievements
 <div>
-    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=phong76&show_icons=true" />
-    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongdz76&layout=compact" alt="Top Languages">
+    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=phong76&show_icons=true&theme=nightowl" />
+    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongdz76&layout=compact&theme=nightowl" alt="Top Languages">
 </div>
 <br></br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phongdz76" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phongdz76&theme=nightowl" alt="GitHub Streak">
 </p>
 
 ## 🌐 Get in Touch
