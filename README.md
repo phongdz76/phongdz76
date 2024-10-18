@@ -20,9 +20,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=phongdz76&theme=vue" alt="GitHub Activity Graph" />
 </p>
 
+
+
+## 💻 Core Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,docker,terraform,jenkins,gitlab,ansible,grafana,bash,nginx" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,figma,firebase,cs,bootstrap,java,js,html,css" />
   </a>
 </p>
 
