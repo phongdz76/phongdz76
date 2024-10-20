@@ -37,8 +37,8 @@
     <td align="center"><a href="https://github.com/fleeforezz"><img src="https://avatars.githubusercontent.com/u/129656223?v=4" width="100px;" alt=""/><br /><sub><b>Minh Nhật</b></sub></a></td>
     <td align="center"><a href="https://github.com/ghaut999"><img src="https://avatars.githubusercontent.com/u/145711398?v=4" width="100px;" alt=""/><br /><sub><b>Minh Quân</b></sub></a></td>
     <td align="center"><a href="https://github.com/phuongnam281204"><img src="https://avatars.githubusercontent.com/u/146837701?v=4" width="100px;" alt=""/><br /><sub><b>Phương Nam</b></sub></a></td>
-    <td align="center"><a href="https://github.com/minhchi521"><img src="https://avatars.githubusercontent.com/u/157143368?v=4" width="100px;" alt=""/><br /><sub><b>Minh Chí</b></sub></a></td>
     <td align="center"><a href="https://github.com/meowlet"><img src="https://avatars.githubusercontent.com/u/151436214?v=4" width="100px;" alt=""/><br /><sub><b>Anh Kiệt</b></sub></a></td>
+    <td align="center"><a href="https://github.com/minhchi521"><img src="https://avatars.githubusercontent.com/u/157143368?v=4" width="100px;" alt=""/><br /><sub><b>Minh Chí</b></sub></a></td>
   </tr>
 </table>
 
