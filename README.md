@@ -3,6 +3,7 @@
   ## 🚀 About Me
  <li>👋 Hi, I’m @phongdz76 aka Nguyễn Hồ Thanh Phong</li>
  <li> I 💖 Anime</li>
+ <li> I 🕹️ Valorant and Genshin Impact
  <li><em>Front-end Developer | Android Development</em></li>
  
  ## 📫How to reach me: 
