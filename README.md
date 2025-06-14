@@ -40,6 +40,7 @@
     <td align="center"><a href="https://github.com/phuongnam281204"><img src="https://avatars.githubusercontent.com/u/146837701?v=4" width="100px;" alt=""/><br /><sub><b>Phương Nam</b></sub></a></td>
     <td align="center"><a href="https://github.com/meowlet"><img src="https://avatars.githubusercontent.com/u/151436214?v=4" width="100px;" alt=""/><br /><sub><b>Anh Kiệt</b></sub></a></td>
     <td align="center"><a href="https://github.com/minhchi521"><img src="https://avatars.githubusercontent.com/u/157143368?v=4" width="100px;" alt=""/><br /><sub><b>Minh Chí</b></sub></a></td>
+    <td align="center"><a href="https://github.com/huyne465"><img src="https://avatars.githubusercontent.com/u/157143368?v=4" width="100px;" alt=""/><br /><sub><b>Minh Chí</b></sub></a></td>
   </tr>
 </table>
 
@@ -66,7 +67,7 @@ Got an exciting project or collaboration opportunity? Reach out to me!
   <img src="https://komarev.com/ghpvc/?username=phongdz76&color=f4d8dc" alt="Profile views">
 </p>
 
-<h3>Last Updated on 21/10/2024 3:43:50 UTC 🕓</h3>
+<h3>Last Updated on 14/06/2025 11:22:50 UTC 🕓</h3>
 <!---
 phongdz76/phongdz76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
