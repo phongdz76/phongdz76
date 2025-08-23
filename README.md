@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f4d8dc&center=true&vCenter=true&width=435&lines=Front-end+Developer;Android+Development;Back-end+Developer,UI/UI+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f4d8dc&center=true&vCenter=true&width=435&lines=Front-end+Developer;Android+Development;Back-end+Developer;UI/UI+Designer" alt="Typing SVG" />
 </p>
 
 <p align="center">
