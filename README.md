@@ -1,11 +1,10 @@
-<h1>Hello Everyone</h1>
-
-  ## 🚀 About Me
- <li>👋 Hi, I’m @phongdz76 aka Nguyễn Hồ Thanh Phong</li>
-<li>💖 Anime Enthusiast</li>
-<li>🎮 Gaming: Valorant, Genshin Impact, Master Duel</li>
-<li>💻 Passionate about creating beautiful and functional applications</li>
-<li>🌱 Always learning new technologies</li>
+ <h1>👋 Hello, I'm Nguyễn Hồ Thanh Phong aka @phongdz76 </h1>
+ 
+ ## 🚀 About Me
+ <li>💖 Anime Enthusiast</li>
+ <li>🎮 Gaming: Valorant, Genshin Impact, Master Duel</li>
+ <li>💻 Passionate about creating beautiful and functional applications</li>
+ <li>🌱 Always learning new technologies</li>
  <li><em>Back-end Developer | Android Development</em></li>
  
  ## 📫How to reach me: 
