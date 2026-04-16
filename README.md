@@ -48,8 +48,8 @@
 
 ## 🏆 GitHub Achievements
 <div>
-    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=phongdz76&show_icons=true" />
-    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongdz76&layout=compact" alt="Top Languages">
+    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=phongdz76&theme=nightowl&show_icons=true" />
+    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongdz76&theme=nightowl&layout=compact" alt="Top Languages">
 </div>
 
 <br></br>
