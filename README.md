@@ -51,7 +51,9 @@
     <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=phongdz76&theme=nightowl&show_icons=true" />
     <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongdz76&theme=nightowl&layout=compact" alt="Top Languages">
 </div>
-<div align="center">
+
+<br></br>
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phongdz76&theme=nightowl" alt="GitHub Streak">
 </div>
 
