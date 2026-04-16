@@ -28,7 +28,8 @@
 ## 💻 Core Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,figma,firebase,cs,bootstrap,java,js,html,css,flutter,postman,mongodb,dotnet,androidstudio&perline=4" />
+     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,figma,firebase,cs,bootstrap,java,js,html,css,flutter,postman,mongodb,dotnet,androidstudio&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,flutter,npm,react,vite,nextjs,tailwind,nodejs,express,nestjs,mongodb,git,github,postman,figma,gmail,visualstudio,vscode&perline=4" />
   </a>
 </p>
 
