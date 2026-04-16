@@ -12,8 +12,8 @@
   <a href="https://www.youtube.com/@PhongNguyen-ch9hv"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>
   <a href="https://www.facebook.com/profile.php?id=100058767700619&mibextid=LQQJ4d"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://mail.google.com/mail/?view=cm&to=nguyenhothanhphong5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://discord.gg/6CFmCtTS"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://phong.fleeforezz.site/" target="_blank"><img src="https://img.shields.io/badge/🐉 Portfolio-f4d8dc?style=for-the-badge&logoColor=white"></a>  
+  <a href="https://discord.gg/rvseCNWE"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://portfolio-iota-seven-icepzi6kn7.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🐉 Portfolio-f4d8dc?style=for-the-badge&logoColor=white"></a>  
 </p>
 
 <p align="center">
